@@ -9,7 +9,7 @@ This package can used for crate multiple language arb file easily.
 
 ## Installation
 
-To use GradientElevatedButton, add it to your dependencies in `pubspec.yaml`:
+To use ARB Converter, add it to your dependencies in `pubspec.yaml`:
 ```yaml
 dependencies :
   arb_converter : ^0.0.1
